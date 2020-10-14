@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 概述 #Abstract
 
-You can use the [editor on GitHub](https://github.com/warmestcolor/cancerwiki/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### 本站旨在整理汇总各方面资料，以帮助癌症患者得到更好的救助机会和康复疗法。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如果您刚好在观看本站内容，请将有帮助的内容保存并转发给您周围有需要的人。如果您有一手的资料，也可以通过以下方式提交给我们：
+1. 专业人士请尽量使用 Pull Request:
+  使用 Git 工具来 `clone` 本项目，并通过发起 `pull request` 来使得您的内容有机会发布到大家面前。
 
-### Markdown
+2. 其余朋友可通过以下方式联系，我们会帮助进行内容发布:
+    * 邮箱：noafraid@forktea.com
+    * QQ群：746607992
+  ![QQ Group](../assets/images/qq_group.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/warmestcolor/cancerwiki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 目录 #Content
+  * [暂时啥都没有](https://www.seeuio.com)
