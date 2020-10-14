@@ -8,9 +8,7 @@
 
 2. 其余朋友可通过以下方式联系，我们会帮助进行内容发布:
     * 邮箱：noafraid@forktea.com
-    * QQ群：746607992
-  ![QQ Group](https://github.com/warmestcolor/cancerwiki/blob/main/assets/images/qq_group.jpg)
-
+    * QQ群：[746607992](https://jq.qq.com/?_wv=1027&k=tsIoXzFy)
 
 ## 目录 #Content
   * [暂时啥都没有](https://www.seeuio.com)
